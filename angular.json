@@ -33,7 +33,8 @@
             "scripts": [
               "src/assets/js/headerApp/headerApp-elements-es2015.js",
               "src/assets/js/zomatoRestoListApp/zomatoRestoListApp-elements-es2015.js",
-              "src/assets/js/zomatoRestoDetailsApp/zomatoRestoDetailsApp-elements-es2015.js"
+              "src/assets/js/zomatoRestoDetailsApp/zomatoRestoDetailsApp-elements-es2015.js",
+              "src/assets/js/weatherApp/weatherApp-elements-es2015.js"
             ]
           },
           "configurations": {

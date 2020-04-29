@@ -1,3 +1,1 @@
-<app-header></app-header>
-<resto-detail-app *ngIf="showDetailPage" [restoDetail]="restDetail" (hideRestoDetaiPage)="hideRestoDetaiPage($event)"></resto-detail-app>
-<resto-list-app *ngIf="!showDetailPage" listCount="15" latitude="17.5204° N" longitude="70.8567° E" collectionId="19" (selectedRestoDetails)="getRestoData($event)"></resto-list-app>
+<router-outlet></router-outlet>
